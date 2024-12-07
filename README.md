@@ -2,6 +2,8 @@
 
 A modern, secure password generator built with React that helps you create strong, customizable passwords with real-time strength analysis and NATO phonetic alphabet reminders.
 
+Try it: 👉 [Strong Password Generator](https://mb-passgenerator.netlify.app/)
+
 ## Features
 
 - 🔐 Secure password generation with customizable length (6-60 characters)
